@@ -1,3 +1,3 @@
 # maxwebby.github.io
 
-https://maxweb.by
+[link text](https://maxweb.by)
